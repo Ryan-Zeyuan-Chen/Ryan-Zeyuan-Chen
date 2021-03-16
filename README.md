@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Ryan-Zeyuan-Chen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Ryan-Zeyuan-Chen
+
+🤖 I'm currently a 3<sup>rd</sup> year undergraduate robotics engineering student @ University of Toronto:
+
+💻 I'm interested in embedded software development, electronic circuit design, and machine learning
+
+📬 Contact me through [email] or connect with me on [LinkedIn] 
+
+[email]: ryanchen0614@gmail.com
+[LinkedIn]: linkedin.com/in/ryan-zeyuan-chen/
 
 <!---
 Ryan-Zeyuan-Chen/Ryan-Zeyuan-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
