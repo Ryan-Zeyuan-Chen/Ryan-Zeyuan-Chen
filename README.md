@@ -6,8 +6,8 @@
 
 📬 Contact me through [email] or connect with me on [LinkedIn] 
 
-[email]: ryanchen0614@gmail.com
-[LinkedIn]: linkedin.com/in/ryan-zeyuan-chen/
+[email]: http://ryanchen0614@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/ryan-zeyuan-chen/
 
 <!---
 Ryan-Zeyuan-Chen/Ryan-Zeyuan-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
