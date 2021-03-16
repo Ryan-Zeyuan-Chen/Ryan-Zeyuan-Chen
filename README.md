@@ -1,6 +1,6 @@
 👋 Hi, I’m @Ryan-Zeyuan-Chen
 
-🤖 I'm currently a 3<sup>rd</sup> year undergraduate robotics engineering student @ University of Toronto:
+🤖 I'm currently a 3<sup>rd</sup> year undergraduate robotics engineering student @ University of Toronto
 
 💻 I'm interested in embedded software development, electronic circuit design, and machine learning
 
