@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ryan-Zeyuan-Chen.
+👋 Hi, I’m @ryan-zeyuan-chen.
 
 🤖 I'm currently a 4<sup>th</sup> year undergraduate robotics engineering student @ University of Toronto.
 
@@ -8,8 +8,3 @@
 
 [email]: http://ryanchen0614@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/ryan-zeyuan-chen/
-
-<!---
-Ryan-Zeyuan-Chen/Ryan-Zeyuan-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
