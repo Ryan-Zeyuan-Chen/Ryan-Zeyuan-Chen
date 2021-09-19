@@ -6,5 +6,5 @@
 
 📬 Contact me through [email] or connect with me on [LinkedIn].
 
-[email]: http://ryanchen0614@gmail.com
+[email]: mailto:ryanchen0614@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/ryan-zeyuan-chen/
