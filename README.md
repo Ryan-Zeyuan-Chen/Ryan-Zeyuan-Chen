@@ -1,6 +1,6 @@
 👋 Hi, I’m @ryan-zeyuan-chen.
 
-🤖 I'm currently a 4<sup>th</sup> year undergraduate robotics engineering student @ University of Toronto.
+🤖 I'm currently a 1<sup>st</sup> year Mechanical Engineering MASc student @ University of Toronto.
 
 💻 I'm interested in modeling, control, and machine learning for robots.
 
